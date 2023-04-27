@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Inc//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>PayloadVersion</key>
+        <integer>1</integer>
+        <key>PayloadDisplayName</key>
+        <string>BLOCK REVOKE AND ADS</string>
+        <key>PayloadDescription</key>
+        <string>BLOCK REVOKE AND ADS</string>
+        <key>PayloadUUID</key>
+        <string>34655</string>
+        <key>PayloadIdentifier</key>
+ <string>86444444</string>
+        <key>PayloadType</key>
+        <string>Configuration</string>
+        <key>PayloadContent</key>
+        <array>
+            <dict>
+                <key>DNSSettings</key>
+                <dict>
+                    <key>DNSProtocol</key>
+                    <string>HTTPS</string>
+
+				<key>ServerURL</key>
+				<string>https://ultralow.dns.nextdns.io/881bd9</string>
+
+                </dict>
+                <key>PayloadVersion</key>
+                <integer>1</integer>
+                <key>PayloadDisplayName</key>
+                <string>BLOCK REVOKE AND ADS</string>
+                <key>PayloadDescription</key>
+                <string>BLOCK REVOKE AND ADS</string>
+                <key>PayloadIdentifier</key>
+                <string>3455566</string>
+                <key>PayloadUUID</key>
+                <string>245665</string>
+                <key>PayloadType</key>
+                <string>com.apple.dnsSettings.managed</string>
+            </dict>
+        </array>
+    </dict>
+</plist>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

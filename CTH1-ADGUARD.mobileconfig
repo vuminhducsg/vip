@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Inc//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>PayloadVersion</key>
+        <integer>1</integer>
+        <key>PayloadDisplayName</key>
+        <string>CHẶN THU HỒI 1</string>
+        <key>PayloadDescription</key>
+        <string>CHẶN THU HỒI 1</string>
+        <key>PayloadUUID</key>
+        <string>A0605guii5-9139-4B4F-8330-274F979E06B1</string>
+        <key>PayloadIdentifier</key>
+ <string>467764438cc2a7f-4055-4f46-979b-3da3a4a10f6a</string>
+        <key>PayloadType</key>
+        <string>Configuration</string>
+        <key>PayloadContent</key>
+        <array>
+            <dict>
+                <key>DNSSettings</key>
+                <dict>
+                    <key>DNSProtocol</key>
+                    <string>HTTPS</string>
+                    <key>ServerURL</key>
+                    <string>https://f1e7746e.d.adguard-dns.com/dns-query</string>
+                </dict>
+                <key>PayloadVersion</key>
+                <integer>1</integer>
+                <key>PayloadDisplayName</key>
+                <string>CHẶN THU HỒI 1</string>
+                <key>PayloadDescription</key>
+                <string>CHẶN THU HỒI 1</string>
+                <key>PayloadIdentifier</key>
+                <string>467764438cc2a7f-4055-4f46-979b-3da3a4a10f6a</string>
+                <key>PayloadUUID</key>
+                <string>A0AAE3rty5CC5-41E9-A31C-80F0E7F8C3C6</string>
+                <key>PayloadType</key>
+                <string>com.apple.dnsSettings.managed</string>
+            </dict>
+        </array>
+    </dict>
+</plist>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
